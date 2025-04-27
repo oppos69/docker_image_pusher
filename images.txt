@@ -1,4 +1,4 @@
-atlas/centos7-atlasos:aarch64-gcc11
+atlas/centos7-atlasos:latest-gcc11
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
